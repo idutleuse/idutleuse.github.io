@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idutleuse.github.io/sitemap.html.gz
+Sitemap: https://idutleuse.github.io/app/sitemap.html.gz
+Sitemap: https://idutleuse.github.io/assets/sitemap.html.gz
+Sitemap: https://idutleuse.github.io/css/sitemap.html.gz
+Sitemap: https://idutleuse.github.io/includes/sitemap.html.gz
+Sitemap: https://idutleuse.github.io/item/sitemap.html.gz
+Sitemap: https://idutleuse.github.io/src/sitemap.html.gz
